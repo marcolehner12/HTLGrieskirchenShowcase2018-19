@@ -24,11 +24,11 @@
         "status": 1
     },
     {
-        "title": "Stickbrawl",
-        "folder": "Stickbrawl",
-        "author": "Jakob Schwarz",
+        "title": "Jump n Run",
+        "folder": "Jump_n_Run",
+        "author": "Marco Lehner",
         "year": "2018_WS",
-	    "info": "Stickfight game, Controls: WASD, arrow keys",
-        "status": 1
+	    "info": "Jump n Run game",
+        "status": 0
     }
 ]
